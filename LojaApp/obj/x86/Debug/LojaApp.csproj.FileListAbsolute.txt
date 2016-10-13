@@ -1,0 +1,756 @@
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe.config
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\App.xbf
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\MainPage.xbf
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.xr.xml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.pdb
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\resources.pri
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\AppxManifest.xml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\LojaApp.exe
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.build.appxrecipe
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Design.Core.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Core.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Windows.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\clrjit.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\clrcompression.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\sqlite3.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.AppContext.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Buffers.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Data.Common.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Http.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.csprojResolveAssemblyReference.cache
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\App.g.i.cs
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\App.g.cs
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.g.cs
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\App.xaml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.xaml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\App.xbf
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.xbf
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.exe
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.pdb
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Strings.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Design.Core\en-US\Microsoft.EntityFrameworkCore.Design.Core.Properties.DesignCoreStrings.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational.Design\en-US\Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.DependencyInjection\en-us\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Options\en-us\Microsoft.Extensions.Options.Resources.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.csproj.GenerateResource.Cache
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\priconfig.xml
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\layout.resfiles
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\resources.resfiles
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\pri.resfiles
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\qualifiers.txt
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\20131011110029\documents\visual studio 2015\Projects\LojaAppSlide3\LojaApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaAppSlide3\LojaApp\bin\x86\Debug\Newtonsoft.Json.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe.config
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\App.xbf
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\MainPage.xbf
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.xr.xml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.pdb
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\resources.pri
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\AppxManifest.xml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\AppxManifest.xml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\LojaApp.exe
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.build.appxrecipe
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.CSharp.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Design.Core.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Options.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Core.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Web.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Windows.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.Linq.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.Serialization.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Newtonsoft.Json.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Remotion.Linq.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.Calendars.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Extensions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Handles.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Timer.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.FileSystem.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Sockets.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Extensions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\clrjit.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\clrcompression.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.Uri.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\sqlite3.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.AppContext.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Buffers.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Concurrent.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Immutable.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Specialized.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Data.Common.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.Extensions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Interactive.Async.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.Compression.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Expressions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Parallel.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Queryable.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Http.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.NameResolution.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Requests.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebSockets.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebSockets.Client.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.Vectors.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ObjectModel.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.ServiceModel.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Context.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Metadata.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Numerics.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Claims.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Principal.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Http.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Security.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encodings.Web.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Overlapped.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XDocument.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\App.g.i.cs
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\App.g.cs
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.g.i.cs
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.g.cs
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\XamlTypeInfo.g.cs
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\App.xaml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.xaml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\App.xbf
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.xbf
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\XamlSaveStateFile.xml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.exe
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.pdb
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\ResourceHandlingTask.state
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Strings.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Design.Core\en-US\Microsoft.EntityFrameworkCore.Design.Core.Properties.DesignCoreStrings.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational.Design\en-US\Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.DependencyInjection\en-us\Microsoft.Extensions.DependencyInjection.Resources.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Options\en-us\Microsoft.Extensions.Options.Resources.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\priconfig.xml
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\priconfig.xml.intermediate
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\layout.resfiles
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\layout.resfiles.intermediate
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\resources.resfiles
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\resources.resfiles.intermediate
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\pri.resfiles
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\pri.resfiles.intermediate
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\qualifiers.txt
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\qualifiers.txt.intermediate
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+\\psf\Home\Desktop\LojaAppSlide3\LojaApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe.config
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\App.xbf
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\MainPage.xbf
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.xr.xml
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.pdb
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\resources.pri
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\AppxManifest.xml
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\LojaApp.exe
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.build.appxrecipe
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Design.Core.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Core.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Windows.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.Linq.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Remotion.Linq.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Timer.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Sockets.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\clrjit.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\clrcompression.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.Uri.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\sqlite3.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.AppContext.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Buffers.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Data.Common.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Interactive.Async.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.Compression.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Http.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.Requests.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ObjectModel.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Context.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Claims.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Security.Principal.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.csprojResolveAssemblyReference.cache
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\App.g.i.cs
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\App.g.cs
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.g.i.cs
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.g.cs
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\App.xaml
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.xaml
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\App.xbf
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\MainPage.xbf
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.exe
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.pdb
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Strings.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Design.Core\en-US\Microsoft.EntityFrameworkCore.Design.Core.Properties.DesignCoreStrings.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational.Design\en-US\Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.DependencyInjection\en-us\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Options\en-us\Microsoft.Extensions.Options.Resources.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\LojaApp.csproj.GenerateResource.Cache
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\priconfig.xml
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\layout.resfiles
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\resources.resfiles
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\pri.resfiles
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\qualifiers.txt
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\ProjectArchitectures.txt
