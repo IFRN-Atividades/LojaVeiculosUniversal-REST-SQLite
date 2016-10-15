@@ -35,6 +35,7 @@
                     </ListBox>
                     <CheckBox x:Name="checkBox" Content="Disponível" HorizontalAlignment="Left" Margin="530,-2,0,0" VerticalAlignment="Top"/>
                     <Button x:Name="btnVender" Content="Vender" HorizontalAlignment="Left" Margin="781,0,0,0" VerticalAlignment="Top" Click="btnVender_Click"/>
+                    <Button x:Name="btnDownloadVeiculos" Content="Download Banco" HorizontalAlignment="Left" Margin="865,0,0,0" VerticalAlignment="Top" Click="btnDownloadVeiculos_Click" />
 
                 </Grid>
             </PivotItem>

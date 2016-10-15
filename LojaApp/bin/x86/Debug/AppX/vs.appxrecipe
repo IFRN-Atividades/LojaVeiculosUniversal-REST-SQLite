@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>bf03ecdc-1e42-477b-b79a-31324d61bec3</PackageIdentityName>
     <PackageIdentityPublisher>CN=20131011110029</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Git\LojaAppSlide3\LojaApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Git\LojaUniversal_REST_SQLite\LojaApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,18 +25,18 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-13T22:41:07.439</Modified>
+      <Modified>2016-10-15T05:18:34.873</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\bin\x86\Debug\LojaApp.exe">
       <PackagePath>entrypoint\LojaApp.exe</PackagePath>
-      <Modified>2016-10-13T22:41:06.902</Modified>
+      <Modified>2016-10-15T05:18:34.364</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.exe.config">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\bin\x86\Debug\LojaApp.exe.config">
       <PackagePath>LojaApp.exe.config</PackagePath>
       <Modified>2016-10-10T20:08:48.000</Modified>
     </AppxPackagedFile>
@@ -596,45 +596,45 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T02:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-10-10T19:54:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T20:20:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\LojaApp.xr.xml">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\bin\x86\Debug\LojaApp.xr.xml">
       <PackagePath>LojaApp.xr.xml</PackagePath>
       <Modified>2016-10-10T20:34:54.000</Modified>
     </AppxPackagedFile>
@@ -642,13 +642,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-10-08T11:12:20.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-10-13T22:32:26.237</Modified>
+      <Modified>2016-10-15T05:12:22.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Git\LojaAppSlide3\LojaApp\bin\x86\Debug\Core\LojaApp.exe">
+    <AppxPackagedFile Include="C:\Git\LojaUniversal_REST_SQLite\LojaApp\bin\x86\Debug\Core\LojaApp.exe">
       <PackagePath>LojaApp.exe</PackagePath>
-      <Modified>2016-10-13T22:41:07.432</Modified>
+      <Modified>2016-10-15T05:18:34.864</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

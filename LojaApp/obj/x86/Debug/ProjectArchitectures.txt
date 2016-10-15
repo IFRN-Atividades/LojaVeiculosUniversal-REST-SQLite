@@ -1,1 +1,1 @@
-C:\Git\LojaAppSlide3\LojaApp\LojaApp.csproj;x86
+C:\Git\LojaUniversal_REST_SQLite\LojaApp\LojaApp.csproj;x86

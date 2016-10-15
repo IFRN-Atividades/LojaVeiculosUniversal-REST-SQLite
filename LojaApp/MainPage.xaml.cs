@@ -66,7 +66,6 @@ namespace LojaApp
 
         public async void getFabValera()
         {
-
             HttpClient httpClient = new HttpClient();
             httpClient.BaseAddress = new Uri(ip);
             var response = await httpClient.GetAsync("api/fabricante");
@@ -84,6 +83,12 @@ namespace LojaApp
         private void btnDownload_Click(object sender, RoutedEventArgs e)
         {
             getFabValera();
+            populateCmbox();
+        }
+
+        private void btnDownloadVeiculos_Click(object sender, RoutedEventArgs e)
+        {
+            getVeicValera();
         }
 
         List<Models.Veiculo> veiValera;
@@ -95,7 +100,14 @@ namespace LojaApp
             var response = await httpClient.GetAsync("api/veiculo");
             var str = response.Content.ReadAsStringAsync().Result;
             List<Models.Veiculo> obj = JsonConvert.DeserializeObject<List<Models.Veiculo>>(str);
-            veiValera = obj.ToList();
+
+            lstVeic.ItemsSource = obj;
+            Models.Loja db = new Models.Loja();
+            foreach (Models.Veiculo f in obj)
+            {
+                db.Veiculos.Add(f);
+                db.SaveChanges();
+            }
         }
 
         public List<Models.Veiculo> getVeiculos()
@@ -110,6 +122,7 @@ namespace LojaApp
 
         public void populateCmbox()
         {
+            cmbFabricantes.ItemsSource = null;
             cmbFabricantes.ItemsSource = getFabricantes();
             cmbFabricantes.SelectedValuePath = "Id";
             cmbFabricantes.DisplayMemberPath = "Descricao";
@@ -148,7 +161,5 @@ namespace LojaApp
             db.Veiculos.Update(v);
             db.SaveChanges();
         }
-
-        
     }
 }

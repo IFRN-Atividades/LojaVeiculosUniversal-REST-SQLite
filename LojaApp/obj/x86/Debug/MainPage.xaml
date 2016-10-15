@@ -11,14 +11,14 @@
         <Pivot Title="Pivot">
             <PivotItem Header="Fabricantes">
                 <Grid>
-                    <TextBox x:ConnectionId='12' x:Name="txtIdFab" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" Margin="10,10,0,0"/>
-                    <TextBox x:ConnectionId='13' x:Name="txtDesc" HorizontalAlignment="Left" Margin="79,10,0,0" TextWrapping="Wrap" Text="Descricao" VerticalAlignment="Top" Width="138"/>
-                    <Button x:ConnectionId='14' x:Name="btnInserir" Content="Inserir" HorizontalAlignment="Left" Margin="222,10,0,0" VerticalAlignment="Top" Width="104"                         />
-                    <Button x:ConnectionId='15' x:Name="btnDownload" Content="Download Banco" HorizontalAlignment="Left" Margin="391,8,0,0" VerticalAlignment="Top" Width="143"                          />
-                    <ListBox x:ConnectionId='16' x:Name="lstFabricantes" Margin="0,47,0,10">
+                    <TextBox x:ConnectionId='13' x:Name="txtIdFab" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" Margin="10,10,0,0"/>
+                    <TextBox x:ConnectionId='14' x:Name="txtDesc" HorizontalAlignment="Left" Margin="79,10,0,0" TextWrapping="Wrap" Text="Descricao" VerticalAlignment="Top" Width="138"/>
+                    <Button x:ConnectionId='15' x:Name="btnInserir" Content="Inserir" HorizontalAlignment="Left" Margin="222,10,0,0" VerticalAlignment="Top" Width="104"                         />
+                    <Button x:ConnectionId='16' x:Name="btnDownload" Content="Download Banco" HorizontalAlignment="Left" Margin="391,8,0,0" VerticalAlignment="Top" Width="143"                          />
+                    <ListBox x:ConnectionId='17' x:Name="lstFabricantes" Margin="0,47,0,10">
 
                     </ListBox>
-                    <Button x:ConnectionId='17' x:Name="btnListFab" Content="Listar" HorizontalAlignment="Left" Margin="331,10,0,0" VerticalAlignment="Top"                         />
+                    <Button x:ConnectionId='18' x:Name="btnListFab" Content="Listar" HorizontalAlignment="Left" Margin="331,10,0,0" VerticalAlignment="Top"                         />
                 </Grid>
             </PivotItem>
             <PivotItem Header="Veículos">
@@ -35,6 +35,7 @@
                     </ListBox>
                     <CheckBox x:ConnectionId='10' x:Name="checkBox" Content="Disponível" HorizontalAlignment="Left" Margin="530,-2,0,0" VerticalAlignment="Top"/>
                     <Button x:ConnectionId='11' x:Name="btnVender" Content="Vender" HorizontalAlignment="Left" Margin="781,0,0,0" VerticalAlignment="Top"                        />
+                    <Button x:ConnectionId='12' x:Name="btnDownloadVeiculos" Content="Download Banco" HorizontalAlignment="Left" Margin="865,0,0,0" VerticalAlignment="Top"                                   />
 
                 </Grid>
             </PivotItem>
